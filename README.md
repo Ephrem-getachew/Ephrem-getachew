@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ephrem</h1>
-<h3 align="center">A passionate Programmer & Jr. Software Engineering from Ethiopia</h3>
+<h3 align="center">A passionate Programmer & Jr. Software Engineer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephrem2627&label=Profile%20views&color=0e75b6&style=flat" alt="ephrem2627" /> </p>
 
